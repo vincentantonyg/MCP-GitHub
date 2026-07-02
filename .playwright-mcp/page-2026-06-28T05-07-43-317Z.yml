@@ -1,0 +1,219 @@
+- generic [active] [ref=e1]:
+  - link "opentaps CRM" [ref=e5] [cursor=pointer]:
+    - /url: /opentaps/
+    - img "opentaps CRM" [ref=e6]
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - text: DemoCSR2 |
+      - link "Profile" [ref=e9] [cursor=pointer]:
+        - /url: /crmsfa/control/myProfile;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+      - text: "|"
+      - link "Shortcuts" [ref=e10] [cursor=pointer]:
+        - /url: javascript:showKeyboardShortcutsHelp();
+      - text: "|"
+      - link "Logout" [ref=e11] [cursor=pointer]:
+        - /url: /crmsfa/control/logout;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+    - link "Get help from an opentaps Partner" [ref=e14] [cursor=pointer]:
+      - /url: http://www.opentaps.org/contact
+      - img "Get help from an opentaps Partner" [ref=e15]
+  - list:
+    - listitem [ref=e17]:
+      - link "My Home" [ref=e23] [cursor=pointer]:
+        - /url: /crmsfa/control/myHomeMain
+    - listitem [ref=e24]:
+      - link "Leads" [ref=e30] [cursor=pointer]:
+        - /url: /crmsfa/control/leadsMain
+    - listitem [ref=e31]:
+      - link "Contacts" [ref=e37] [cursor=pointer]:
+        - /url: /crmsfa/control/contactsMain
+    - listitem [ref=e38]:
+      - link "Accounts" [ref=e44] [cursor=pointer]:
+        - /url: /crmsfa/control/accountsMain
+    - listitem [ref=e45]:
+      - link "Cases" [ref=e51] [cursor=pointer]:
+        - /url: /crmsfa/control/casesMain
+    - listitem [ref=e52]:
+      - link "Activities" [ref=e58] [cursor=pointer]:
+        - /url: /crmsfa/control/activitiesMain
+    - listitem [ref=e59]:
+      - link "Orders" [ref=e65] [cursor=pointer]:
+        - /url: /crmsfa/control/ordersMain
+    - listitem [ref=e66]:
+      - link "opentaps" [ref=e72] [cursor=pointer]:
+        - /url: /opentaps?externalLoginKey=EL485965128732;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+  - table [ref=e75]:
+    - rowgroup [ref=e76]:
+      - 'row "Last Viewed: Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… User123 new (Testleaf) Prabakaran Murugan (Testl… Prabakaran Murugan (Testl…" [ref=e77]':
+        - 'cell "Last Viewed: Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… User123 new (Testleaf) Prabakaran Murugan (Testl… Prabakaran Murugan (Testl…" [ref=e78]':
+          - list [ref=e79]:
+            - listitem [ref=e80]:
+              - generic [ref=e81]: "Last Viewed:"
+            - listitem [ref=e82]:
+              - link "Prabakaran Murugan (Testl…" [ref=e83] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10155
+            - listitem [ref=e84]:
+              - link "Prabakaran Murugan (Testl…" [ref=e85] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10154
+            - listitem [ref=e86]:
+              - link "Prabakaran Murugan (Testl…" [ref=e87] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10153
+            - listitem [ref=e88]:
+              - link "Prabakaran Murugan (Testl…" [ref=e89] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10152
+            - listitem [ref=e90]:
+              - link "User123 new (Testleaf)" [ref=e91] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10151
+            - listitem [ref=e92]:
+              - link "Prabakaran Murugan (Testl…" [ref=e93] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10150
+            - listitem [ref=e94]:
+              - link "Prabakaran Murugan (Testl…" [ref=e95] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;partyId=10149
+  - generic [ref=e97]:
+    - generic [ref=e99]:
+      - generic [ref=e104]: Shortcuts
+      - list [ref=e106]:
+        - listitem [ref=e107]:
+          - link "Create Lead" [ref=e108] [cursor=pointer]:
+            - /url: /crmsfa/control/createLeadForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e109]:
+          - link "Create Account" [ref=e110] [cursor=pointer]:
+            - /url: /crmsfa/control/createAccountForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e111]:
+          - link "Create Contact" [ref=e112] [cursor=pointer]:
+            - /url: /crmsfa/control/createContactForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e113]:
+          - link "Create Case" [ref=e114] [cursor=pointer]:
+            - /url: /crmsfa/control/createCaseForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e115]:
+          - link "Create Order" [ref=e116] [cursor=pointer]:
+            - /url: /crmsfa/control/createOrderMainScreen;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e117]:
+          - link "Write Email" [ref=e118] [cursor=pointer]:
+            - /url: /crmsfa/control/writeEmail;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1
+        - listitem [ref=e119]:
+          - link "Log Call" [ref=e120] [cursor=pointer]:
+            - /url: /crmsfa/control/logTaskForm&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;workEffortPurposeTypeId=WEPT_TASK_PHONE_CALL
+        - listitem [ref=e121]:
+          - link "New Task" [ref=e122] [cursor=pointer]:
+            - /url: /crmsfa/control/createTaskForm&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;workEffortTypeId=TASK
+        - listitem [ref=e123]:
+          - link "New Event" [ref=e124] [cursor=pointer]:
+            - /url: /crmsfa/control/createEventForm&;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1#63;workEffortTypeId=EVENT
+    - generic [ref=e125]:
+      - generic [ref=e131]: My Home
+      - generic [ref=e136]:
+        - generic [ref=e137]:
+          - generic [ref=e141]:
+            - generic [ref=e142] [cursor=pointer]: My Calendar
+            - generic [ref=e143]:
+              - link "Day" [ref=e144] [cursor=pointer]:
+                - /url: myHome?calendarView=day
+              - link "Week" [ref=e145] [cursor=pointer]:
+                - /url: myHome?calendarView=week
+              - link "Month" [ref=e146] [cursor=pointer]:
+                - /url: myHome?calendarView=month
+          - generic [ref=e148]:
+            - table [ref=e149]:
+              - rowgroup [ref=e150]:
+                - row "Sunday June 28, 2026 Previous | Today | Next" [ref=e151]:
+                  - cell "Sunday June 28, 2026" [ref=e152]
+                  - cell "Previous | Today | Next" [ref=e153]:
+                    - link "Previous" [ref=e154] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?calendarView=day&start=1782498600000
+                    - text: "|"
+                    - link "Today" [ref=e155] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?calendarView=day&start=1782585000000
+                    - text: "|"
+                    - link "Next" [ref=e156] [cursor=pointer]:
+                      - /url: /crmsfa/control/myHome;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?calendarView=day&start=1782671400000
+            - table [ref=e157]:
+              - rowgroup [ref=e158]:
+                - row "8:00 AM" [ref=e159]:
+                  - cell "8:00 AM" [ref=e160]:
+                    - text: 8:00 AM
+                    - link [ref=e161] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2008:00:00
+                      - img [ref=e162]
+                  - cell [ref=e163]
+                - row "9:00 AM" [ref=e164]:
+                  - cell "9:00 AM" [ref=e165]:
+                    - text: 9:00 AM
+                    - link [ref=e166] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2009:00:00
+                      - img [ref=e167]
+                  - cell [ref=e168]
+                - row "10:00 AM" [ref=e169]:
+                  - cell "10:00 AM" [ref=e170]:
+                    - text: 10:00 AM
+                    - link [ref=e171] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2010:00:00
+                      - img [ref=e172]
+                  - cell [ref=e173]
+                - row "11:00 AM" [ref=e174]:
+                  - cell "11:00 AM" [ref=e175]:
+                    - text: 11:00 AM
+                    - link [ref=e176] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2011:00:00
+                      - img [ref=e177]
+                  - cell [ref=e178]
+                - row "12:00 PM" [ref=e179]:
+                  - cell "12:00 PM" [ref=e180]:
+                    - text: 12:00 PM
+                    - link [ref=e181] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2012:00:00
+                      - img [ref=e182]
+                  - cell [ref=e183]
+                - row "1:00 PM" [ref=e184]:
+                  - cell "1:00 PM" [ref=e185]:
+                    - text: 1:00 PM
+                    - link [ref=e186] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2013:00:00
+                      - img [ref=e187]
+                  - cell [ref=e188]
+                - row "2:00 PM" [ref=e189]:
+                  - cell "2:00 PM" [ref=e190]:
+                    - text: 2:00 PM
+                    - link [ref=e191] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2014:00:00
+                      - img [ref=e192]
+                  - cell [ref=e193]
+                - row "3:00 PM" [ref=e194]:
+                  - cell "3:00 PM" [ref=e195]:
+                    - text: 3:00 PM
+                    - link [ref=e196] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2015:00:00
+                      - img [ref=e197]
+                  - cell [ref=e198]
+                - row "4:00 PM" [ref=e199]:
+                  - cell "4:00 PM" [ref=e200]:
+                    - text: 4:00 PM
+                    - link [ref=e201] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2016:00:00
+                      - img [ref=e202]
+                  - cell [ref=e203]
+                - row "5:00 PM" [ref=e204]:
+                  - cell "5:00 PM" [ref=e205]:
+                    - text: 5:00 PM
+                    - link [ref=e206] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2017:00:00
+                      - img [ref=e207]
+                  - cell [ref=e208]
+                - row "6:00 PM" [ref=e209]:
+                  - cell "6:00 PM" [ref=e210]:
+                    - text: 6:00 PM
+                    - link [ref=e211] [cursor=pointer]:
+                      - /url: /crmsfa/control/createEventForm;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?estimatedStartDate=6/28/26%2018:00:00
+                      - img [ref=e212]
+                  - cell [ref=e213]
+        - generic [ref=e218]:
+          - generic [ref=e219] [cursor=pointer]: Pending Inbound Emails
+          - link "Owned by Me Only" [ref=e221] [cursor=pointer]:
+            - /url: /crmsfa/control/myHome;jsessionid=AF24569D22E294AAD8E4B6C8441FD5CB.jvm1?viewPrefTypeId=EMAILS_MINE_OWNED
+        - generic [ref=e228] [cursor=pointer]: Pending Outbound Emails
+      - generic [ref=e232]:
+        - link "© 2026 Testleaf." [ref=e233] [cursor=pointer]:
+          - /url: https://testleaf.com
+        - text: All rights reserved.
+  - iframe
+  - iframe

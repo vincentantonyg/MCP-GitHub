@@ -1,0 +1,15 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - img [ref=e6]
+    - generic [ref=e8]:
+      - heading "Welcome Demo B2C CSR" [level=2] [ref=e9]:
+        - text: Welcome
+        - text: Demo B2C CSR
+      - generic [ref=e10]:
+        - link [ref=e11] [cursor=pointer]:
+          - /url: /crmsfa/control/main?externalLoginKey=EL575759875043
+          - img [ref=e12]
+        - link "CRM/SFA" [ref=e14] [cursor=pointer]:
+          - /url: /crmsfa/control/main?externalLoginKey=EL575759875043
+      - button "Logout" [ref=e16]
+  - generic [ref=e18]: Welcome to Leaftaps Application - TestLeaf environment for automation engineering learning.

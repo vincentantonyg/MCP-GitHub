@@ -1,0 +1,660 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - menubar [ref=e9]:
+      - textbox [ref=e10]
+      - table [ref=e11]:
+        - rowgroup [ref=e12]:
+          - row "CRM/SFA Docs Wiki eCommerce" [ref=e13]:
+            - menuitem "CRM/SFA" [ref=e14]
+            - menuitem "Docs Wiki" [ref=e15]:
+              - link "Docs Wiki" [ref=e16] [cursor=pointer]:
+                - /url: http://www.opentaps.org/docs/?externalLoginKey=EL482722736690
+            - menuitem "eCommerce" [ref=e17]:
+              - link "eCommerce" [ref=e18] [cursor=pointer]:
+                - /url: /ecommerce/control/main?externalLoginKey=EL482722736690
+    - link "opentaps CRM" [ref=e20] [cursor=pointer]:
+      - /url: /opentaps/
+      - img "opentaps CRM" [ref=e21]
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - text: DemoCSR2 |
+      - link "Profile" [ref=e24] [cursor=pointer]:
+        - /url: /crmsfa/control/myProfile
+      - text: "|"
+      - link "Shortcuts" [ref=e25] [cursor=pointer]:
+        - /url: javascript:showKeyboardShortcutsHelp();
+      - text: "|"
+      - link "Logout" [ref=e26] [cursor=pointer]:
+        - /url: /crmsfa/control/logout
+    - generic [ref=e27]:
+      - table [ref=e36]:
+        - rowgroup [ref=e37]:
+          - row "Search" [ref=e38]:
+            - cell [ref=e39]:
+              - textbox [ref=e43]
+            - cell "Search" [ref=e44]:
+              - table [ref=e48] [cursor=pointer]:
+                - rowgroup [ref=e49]:
+                  - row "Search" [ref=e50]:
+                    - cell [ref=e51]
+                    - cell "Search" [ref=e53]:
+                      - emphasis [ref=e54]:
+                        - button "Search" [ref=e55]
+                    - cell [ref=e56]
+      - link "Live help for this page on opentaps Wiki" [ref=e58] [cursor=pointer]:
+        - /url: http://www.opentaps.org/docs/index.php?title=My_Leads_Page&oldid=0
+        - img "Live help for this page on opentaps Wiki" [ref=e59]
+      - link "Get help from an opentaps Partner" [ref=e60] [cursor=pointer]:
+        - /url: http://www.opentaps.org/contact
+        - img "Get help from an opentaps Partner" [ref=e61]
+  - list:
+    - listitem [ref=e63]:
+      - link "My Home" [ref=e69] [cursor=pointer]:
+        - /url: /crmsfa/control/myHomeMain
+    - listitem [ref=e70]:
+      - link "Leads" [ref=e76] [cursor=pointer]:
+        - /url: /crmsfa/control/leadsMain
+    - listitem [ref=e77]:
+      - link "Contacts" [ref=e83] [cursor=pointer]:
+        - /url: /crmsfa/control/contactsMain
+    - listitem [ref=e84]:
+      - link "Accounts" [ref=e90] [cursor=pointer]:
+        - /url: /crmsfa/control/accountsMain
+    - listitem [ref=e91]:
+      - link "Cases" [ref=e97] [cursor=pointer]:
+        - /url: /crmsfa/control/casesMain
+    - listitem [ref=e98]:
+      - link "Activities" [ref=e104] [cursor=pointer]:
+        - /url: /crmsfa/control/activitiesMain
+    - listitem [ref=e105]:
+      - link "Orders" [ref=e111] [cursor=pointer]:
+        - /url: /crmsfa/control/ordersMain
+    - listitem [ref=e112]:
+      - link "opentaps" [ref=e118] [cursor=pointer]:
+        - /url: /opentaps?externalLoginKey=EL818713194773
+  - table [ref=e121]:
+    - rowgroup [ref=e122]:
+      - 'row "Last Viewed: Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… User123 new (Testleaf) Prabakaran Murugan (Testl… Prabakaran Murugan (Testl…" [ref=e123]':
+        - 'cell "Last Viewed: Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… Prabakaran Murugan (Testl… User123 new (Testleaf) Prabakaran Murugan (Testl… Prabakaran Murugan (Testl…" [ref=e124]':
+          - list [ref=e125]:
+            - listitem [ref=e126]:
+              - generic [ref=e127]: "Last Viewed:"
+            - listitem [ref=e128]:
+              - link "Prabakaran Murugan (Testl…" [ref=e129] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10155
+            - listitem [ref=e130]:
+              - link "Prabakaran Murugan (Testl…" [ref=e131] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10154
+            - listitem [ref=e132]:
+              - link "Prabakaran Murugan (Testl…" [ref=e133] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10153
+            - listitem [ref=e134]:
+              - link "Prabakaran Murugan (Testl…" [ref=e135] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10152
+            - listitem [ref=e136]:
+              - link "User123 new (Testleaf)" [ref=e137] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10151
+            - listitem [ref=e138]:
+              - link "Prabakaran Murugan (Testl…" [ref=e139] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10150
+            - listitem [ref=e140]:
+              - link "Prabakaran Murugan (Testl…" [ref=e141] [cursor=pointer]:
+                - /url: /crmsfa/control/viewLead?partyId=10149
+  - generic [ref=e143]:
+    - generic [ref=e144]:
+      - generic [ref=e145]:
+        - generic [ref=e150]: Shortcuts
+        - list [ref=e152]:
+          - listitem [ref=e153]:
+            - link "My Leads" [ref=e154] [cursor=pointer]:
+              - /url: /crmsfa/control/myLeads
+          - listitem [ref=e155]:
+            - link "Create Lead" [ref=e156] [cursor=pointer]:
+              - /url: /crmsfa/control/createLeadForm
+          - listitem [ref=e157]:
+            - link "Find Leads" [ref=e158] [cursor=pointer]:
+              - /url: /crmsfa/control/findLeads
+          - listitem [ref=e159]:
+            - link "Request Catalog" [ref=e160] [cursor=pointer]:
+              - /url: /crmsfa/control/createCatalogRequestForm
+      - generic [ref=e167] [cursor=pointer]: Create Account
+      - generic [ref=e175] [cursor=pointer]: Create Contact
+      - generic [ref=e183] [cursor=pointer]: Create Case
+      - generic [ref=e191] [cursor=pointer]: Create Lead
+    - generic [ref=e193]:
+      - generic [ref=e199]: My Leads
+      - generic [ref=e213]:
+        - generic [ref=e217]: Lead List
+        - generic [ref=e222]:
+          - generic [ref=e225]:
+            - table [ref=e229]:
+              - rowgroup [ref=e230]:
+                - row "Lead ID First name Last name Company Name City State/Province Phone Number E-Mail Address" [ref=e231]:
+                  - cell "Lead ID" [ref=e232]:
+                    - generic [ref=e233]:
+                      - text: Lead ID
+                      - img [ref=e234]
+                  - cell "First name" [ref=e235]:
+                    - generic [ref=e236]: First name
+                  - cell "Last name" [ref=e237]:
+                    - generic [ref=e238]: Last name
+                  - cell "Company Name" [ref=e239]:
+                    - generic [ref=e240]: Company Name
+                  - cell "City" [ref=e241]:
+                    - generic [ref=e242]: City
+                  - cell "State/Province" [ref=e243]:
+                    - generic [ref=e244]: State/Province
+                  - cell "Phone Number" [ref=e245]:
+                    - generic [ref=e246]: Phone Number
+                  - cell "E-Mail Address" [ref=e247]:
+                    - generic [ref=e248]: E-Mail Address
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - table [ref=e252]:
+                  - rowgroup [ref=e253]:
+                    - row "10007 Cyrus Daniel Blackrock 1 995291" [ref=e254]:
+                      - cell "10007" [ref=e255]:
+                        - link "10007" [ref=e257] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10007
+                      - cell "Cyrus" [ref=e258]:
+                        - link "Cyrus" [ref=e260] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10007
+                      - cell "Daniel" [ref=e261]:
+                        - link "Daniel" [ref=e263] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10007
+                      - cell "Blackrock" [ref=e264]:
+                        - link "Blackrock" [ref=e266] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10007
+                      - cell [ref=e267]
+                      - cell [ref=e269]
+                      - cell "1 995291" [ref=e271]:
+                        - generic [ref=e272]: 1 995291
+                      - cell [ref=e273]
+                    - row:
+                      - cell
+                - table [ref=e276]:
+                  - rowgroup [ref=e277]:
+                    - row "10008 Manothini S Amazon" [ref=e278]:
+                      - cell "10008" [ref=e279]:
+                        - link "10008" [ref=e281] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10008
+                      - cell "Manothini" [ref=e282]:
+                        - link "Manothini" [ref=e284] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10008
+                      - cell "S" [ref=e285]:
+                        - link "S" [ref=e287] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10008
+                      - cell "Amazon" [ref=e288]:
+                        - link "Amazon" [ref=e290] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10008
+                      - cell [ref=e291]
+                      - cell [ref=e293]
+                      - cell [ref=e295]
+                      - cell [ref=e297]
+                    - row:
+                      - cell
+                - table [ref=e300]:
+                  - rowgroup [ref=e301]:
+                    - row "10009 'Harish' 'A' CTS 1 '89257'" [ref=e302]:
+                      - cell "10009" [ref=e303]:
+                        - link "10009" [ref=e305] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10009
+                      - cell "'Harish'" [ref=e306]:
+                        - link "'Harish'" [ref=e308] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10009
+                      - cell "'A'" [ref=e309]:
+                        - link "'A'" [ref=e311] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10009
+                      - cell "CTS" [ref=e312]:
+                        - link "CTS" [ref=e314] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10009
+                      - cell [ref=e315]
+                      - cell [ref=e317]
+                      - cell "1 '89257'" [ref=e319]:
+                        - generic [ref=e320]: 1 '89257'
+                      - cell [ref=e321]
+                    - row:
+                      - cell
+                - table [ref=e324]:
+                  - rowgroup [ref=e325]:
+                    - row "10010 Deepak kumar Qualitest 1 998800" [ref=e326]:
+                      - cell "10010" [ref=e327]:
+                        - link "10010" [ref=e329] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10010
+                      - cell "Deepak" [ref=e330]:
+                        - link "Deepak" [ref=e332] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10010
+                      - cell "kumar" [ref=e333]:
+                        - link "kumar" [ref=e335] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10010
+                      - cell "Qualitest" [ref=e336]:
+                        - link "Qualitest" [ref=e338] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10010
+                      - cell [ref=e339]
+                      - cell [ref=e341]
+                      - cell "1 998800" [ref=e343]:
+                        - generic [ref=e344]: 1 998800
+                      - cell [ref=e345]
+                    - row:
+                      - cell
+                - table [ref=e348]:
+                  - rowgroup [ref=e349]:
+                    - row "10011 Pragi Sri Kissflow 1 878579" [ref=e350]:
+                      - cell "10011" [ref=e351]:
+                        - link "10011" [ref=e353] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10011
+                      - cell "Pragi" [ref=e354]:
+                        - link "Pragi" [ref=e356] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10011
+                      - cell "Sri" [ref=e357]:
+                        - link "Sri" [ref=e359] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10011
+                      - cell "Kissflow" [ref=e360]:
+                        - link "Kissflow" [ref=e362] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10011
+                      - cell [ref=e363]
+                      - cell [ref=e365]
+                      - cell "1 878579" [ref=e367]:
+                        - generic [ref=e368]: 1 878579
+                      - cell [ref=e369]
+                    - row:
+                      - cell
+                - table [ref=e372]:
+                  - rowgroup [ref=e373]:
+                    - row "10012 Manothini S Amazon" [ref=e374]:
+                      - cell "10012" [ref=e375]:
+                        - link "10012" [ref=e377] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10012
+                      - cell "Manothini" [ref=e378]:
+                        - link "Manothini" [ref=e380] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10012
+                      - cell "S" [ref=e381]:
+                        - link "S" [ref=e383] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10012
+                      - cell "Amazon" [ref=e384]:
+                        - link "Amazon" [ref=e386] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10012
+                      - cell [ref=e387]
+                      - cell [ref=e389]
+                      - cell [ref=e391]
+                      - cell [ref=e393]
+                    - row:
+                      - cell
+                - table [ref=e396]:
+                  - rowgroup [ref=e397]:
+                    - row "10013 Cyrus Daniel Blackrock 1 995291" [ref=e398]:
+                      - cell "10013" [ref=e399]:
+                        - link "10013" [ref=e401] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10013
+                      - cell "Cyrus" [ref=e402]:
+                        - link "Cyrus" [ref=e404] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10013
+                      - cell "Daniel" [ref=e405]:
+                        - link "Daniel" [ref=e407] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10013
+                      - cell "Blackrock" [ref=e408]:
+                        - link "Blackrock" [ref=e410] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10013
+                      - cell [ref=e411]
+                      - cell [ref=e413]
+                      - cell "1 995291" [ref=e415]:
+                        - generic [ref=e416]: 1 995291
+                      - cell [ref=e417]
+                    - row:
+                      - cell
+                - table [ref=e420]:
+                  - rowgroup [ref=e421]:
+                    - row "10014 Manothini S Amazon" [ref=e422]:
+                      - cell "10014" [ref=e423]:
+                        - link "10014" [ref=e425] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10014
+                      - cell "Manothini" [ref=e426]:
+                        - link "Manothini" [ref=e428] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10014
+                      - cell "S" [ref=e429]:
+                        - link "S" [ref=e431] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10014
+                      - cell "Amazon" [ref=e432]:
+                        - link "Amazon" [ref=e434] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10014
+                      - cell [ref=e435]
+                      - cell [ref=e437]
+                      - cell [ref=e439]
+                      - cell [ref=e441]
+                    - row:
+                      - cell
+                - table [ref=e444]:
+                  - rowgroup [ref=e445]:
+                    - row "10015 Govardhan Surendran HCL 1 9884955591" [ref=e446]:
+                      - cell "10015" [ref=e447]:
+                        - link "10015" [ref=e449] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10015
+                      - cell "Govardhan" [ref=e450]:
+                        - link "Govardhan" [ref=e452] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10015
+                      - cell "Surendran" [ref=e453]:
+                        - link "Surendran" [ref=e455] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10015
+                      - cell "HCL" [ref=e456]:
+                        - link "HCL" [ref=e458] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10015
+                      - cell [ref=e459]
+                      - cell [ref=e461]
+                      - cell "1 9884955591" [ref=e463]:
+                        - generic [ref=e464]: 1 9884955591
+                      - cell [ref=e465]
+                    - row:
+                      - cell
+                - table [ref=e468]:
+                  - rowgroup [ref=e469]:
+                    - row "10016 Govardhan Surendran HCL 1 9884955591" [ref=e470]:
+                      - cell "10016" [ref=e471]:
+                        - link "10016" [ref=e473] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10016
+                      - cell "Govardhan" [ref=e474]:
+                        - link "Govardhan" [ref=e476] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10016
+                      - cell "Surendran" [ref=e477]:
+                        - link "Surendran" [ref=e479] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10016
+                      - cell "HCL" [ref=e480]:
+                        - link "HCL" [ref=e482] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10016
+                      - cell [ref=e483]
+                      - cell [ref=e485]
+                      - cell "1 9884955591" [ref=e487]:
+                        - generic [ref=e488]: 1 9884955591
+                      - cell [ref=e489]
+                    - row:
+                      - cell
+                - table [ref=e492]:
+                  - rowgroup [ref=e493]:
+                    - row "10017 Govardhan Surendran HCL 1 9884955591" [ref=e494]:
+                      - cell "10017" [ref=e495]:
+                        - link "10017" [ref=e497] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10017
+                      - cell "Govardhan" [ref=e498]:
+                        - link "Govardhan" [ref=e500] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10017
+                      - cell "Surendran" [ref=e501]:
+                        - link "Surendran" [ref=e503] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10017
+                      - cell "HCL" [ref=e504]:
+                        - link "HCL" [ref=e506] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10017
+                      - cell [ref=e507]
+                      - cell [ref=e509]
+                      - cell "1 9884955591" [ref=e511]:
+                        - generic [ref=e512]: 1 9884955591
+                      - cell [ref=e513]
+                    - row:
+                      - cell
+                - table [ref=e516]:
+                  - rowgroup [ref=e517]:
+                    - row "10021 First Name Last Name My Company" [ref=e518]:
+                      - cell "10021" [ref=e519]:
+                        - link "10021" [ref=e521] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10021
+                      - cell "First Name" [ref=e522]:
+                        - link "First Name" [ref=e524] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10021
+                      - cell "Last Name" [ref=e525]:
+                        - link "Last Name" [ref=e527] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10021
+                      - cell "My Company" [ref=e528]:
+                        - link "My Company" [ref=e530] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10021
+                      - cell [ref=e531]
+                      - cell [ref=e533]
+                      - cell [ref=e535]
+                      - cell [ref=e537]
+                    - row:
+                      - cell
+                - table [ref=e540]:
+                  - rowgroup [ref=e541]:
+                    - row "10022 First Name0.9254312376165208 Last Name0.9254312376165208 My Company0.9254312376165208" [ref=e542]:
+                      - cell "10022" [ref=e543]:
+                        - link "10022" [ref=e545] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10022
+                      - cell "First Name0.9254312376165208" [ref=e546]:
+                        - link "First Name0.9254312376165208" [ref=e548] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10022
+                      - cell "Last Name0.9254312376165208" [ref=e549]:
+                        - link "Last Name0.9254312376165208" [ref=e551] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10022
+                      - cell "My Company0.9254312376165208" [ref=e552]:
+                        - link "My Company0.9254312376165208" [ref=e554] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10022
+                      - cell [ref=e555]
+                      - cell [ref=e557]
+                      - cell [ref=e559]
+                      - cell [ref=e561]
+                    - row:
+                      - cell
+                - table [ref=e564]:
+                  - rowgroup [ref=e565]:
+                    - row "10028 Anil Kumar Birlasoft Test-AI@demo.com" [ref=e566]:
+                      - cell "10028" [ref=e567]:
+                        - link "10028" [ref=e569] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10028
+                      - cell "Anil" [ref=e570]:
+                        - link "Anil" [ref=e572] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10028
+                      - cell "Kumar" [ref=e573]:
+                        - link "Kumar" [ref=e575] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10028
+                      - cell "Birlasoft" [ref=e576]:
+                        - link "Birlasoft" [ref=e578] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10028
+                      - cell [ref=e579]
+                      - cell [ref=e581]
+                      - cell [ref=e583]
+                      - cell "Test-AI@demo.com" [ref=e585]:
+                        - link "Test-AI@demo.com" [ref=e587] [cursor=pointer]:
+                          - /url: writeEmail?contactMechIdTo=10014&internalPartyId=10028&donePage=viewLead
+                    - row:
+                      - cell
+                - table [ref=e589]:
+                  - rowgroup [ref=e590]:
+                    - row "10031 leo das das&co" [ref=e591]:
+                      - cell "10031" [ref=e592]:
+                        - link "10031" [ref=e594] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10031
+                      - cell "leo" [ref=e595]:
+                        - link "leo" [ref=e597] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10031
+                      - cell "das" [ref=e598]:
+                        - link "das" [ref=e600] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10031
+                      - cell "das&co" [ref=e601]:
+                        - link "das&co" [ref=e603] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10031
+                      - cell [ref=e604]
+                      - cell [ref=e606]
+                      - cell [ref=e608]
+                      - cell [ref=e610]
+                    - row:
+                      - cell
+                - table [ref=e613]:
+                  - rowgroup [ref=e614]:
+                    - row "10032 Antony Das Dass&co" [ref=e615]:
+                      - cell "10032" [ref=e616]:
+                        - link "10032" [ref=e618] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10032
+                      - cell "Antony" [ref=e619]:
+                        - link "Antony" [ref=e621] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10032
+                      - cell "Das" [ref=e622]:
+                        - link "Das" [ref=e624] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10032
+                      - cell "Dass&co" [ref=e625]:
+                        - link "Dass&co" [ref=e627] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10032
+                      - cell [ref=e628]
+                      - cell [ref=e630]
+                      - cell [ref=e632]
+                      - cell [ref=e634]
+                    - row:
+                      - cell
+                - table [ref=e637]:
+                  - rowgroup [ref=e638]:
+                    - row "10033 Leo Das Dass&co" [ref=e639]:
+                      - cell "10033" [ref=e640]:
+                        - link "10033" [ref=e642] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10033
+                      - cell "Leo" [ref=e643]:
+                        - link "Leo" [ref=e645] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10033
+                      - cell "Das" [ref=e646]:
+                        - link "Das" [ref=e648] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10033
+                      - cell "Dass&co" [ref=e649]:
+                        - link "Dass&co" [ref=e651] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10033
+                      - cell [ref=e652]
+                      - cell [ref=e654]
+                      - cell [ref=e656]
+                      - cell [ref=e658]
+                    - row:
+                      - cell
+                - table [ref=e661]:
+                  - rowgroup [ref=e662]:
+                    - row "10034 Harold Das Dass&co" [ref=e663]:
+                      - cell "10034" [ref=e664]:
+                        - link "10034" [ref=e666] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10034
+                      - cell "Harold" [ref=e667]:
+                        - link "Harold" [ref=e669] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10034
+                      - cell "Das" [ref=e670]:
+                        - link "Das" [ref=e672] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10034
+                      - cell "Dass&co" [ref=e673]:
+                        - link "Dass&co" [ref=e675] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10034
+                      - cell [ref=e676]
+                      - cell [ref=e678]
+                      - cell [ref=e680]
+                      - cell [ref=e682]
+                    - row:
+                      - cell
+                - table [ref=e685]:
+                  - rowgroup [ref=e686]:
+                    - row "10035 spider man testleaf" [ref=e687]:
+                      - cell "10035" [ref=e688]:
+                        - link "10035" [ref=e690] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10035
+                      - cell "spider" [ref=e691]:
+                        - link "spider" [ref=e693] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10035
+                      - cell "man" [ref=e694]:
+                        - link "man" [ref=e696] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10035
+                      - cell "testleaf" [ref=e697]:
+                        - link "testleaf" [ref=e699] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10035
+                      - cell [ref=e700]
+                      - cell [ref=e702]
+                      - cell [ref=e704]
+                      - cell [ref=e706]
+                    - row:
+                      - cell
+                - table [ref=e709]:
+                  - rowgroup [ref=e710]:
+                    - row "10036 spider man testleaf" [ref=e711]:
+                      - cell "10036" [ref=e712]:
+                        - link "10036" [ref=e714] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10036
+                      - cell "spider" [ref=e715]:
+                        - link "spider" [ref=e717] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10036
+                      - cell "man" [ref=e718]:
+                        - link "man" [ref=e720] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10036
+                      - cell "testleaf" [ref=e721]:
+                        - link "testleaf" [ref=e723] [cursor=pointer]:
+                          - /url: /crmsfa/control/viewLead?partyId=10036
+                      - cell [ref=e724]
+                      - cell [ref=e726]
+                      - cell [ref=e728]
+                      - cell [ref=e730]
+                    - row:
+                      - cell
+              - link:
+                - /url: "#"
+          - generic [ref=e733]:
+            - table [ref=e734]:
+              - rowgroup [ref=e735]:
+                - row "Page 1 of 6 20 records per page. Export To Excel" [ref=e736]:
+                  - cell [ref=e737]:
+                    - table [ref=e738]:
+                      - rowgroup [ref=e739]:
+                        - row [ref=e740]:
+                          - cell [ref=e741]
+                          - cell [ref=e743]:
+                            - emphasis [ref=e744]:
+                              - button [ref=e745]
+                          - cell [ref=e746]
+                  - cell [ref=e748]:
+                    - table [ref=e749]:
+                      - rowgroup [ref=e750]:
+                        - row [ref=e751]:
+                          - cell [ref=e752]
+                          - cell [ref=e754]:
+                            - emphasis [ref=e755]:
+                              - button [ref=e756]
+                          - cell [ref=e757]
+                  - cell [ref=e759]
+                  - cell "Page" [ref=e761]
+                  - cell "1" [ref=e762]:
+                    - textbox [ref=e763]: "1"
+                  - cell "of 6" [ref=e764]
+                  - cell [ref=e765]
+                  - cell [ref=e767]:
+                    - table [ref=e768] [cursor=pointer]:
+                      - rowgroup [ref=e769]:
+                        - row [ref=e770]:
+                          - cell [ref=e771]
+                          - cell [ref=e773]:
+                            - emphasis [ref=e774]:
+                              - button [ref=e775]
+                          - cell [ref=e776]
+                  - cell [ref=e778]:
+                    - table [ref=e779] [cursor=pointer]:
+                      - rowgroup [ref=e780]:
+                        - row [ref=e781]:
+                          - cell [ref=e782]
+                          - cell [ref=e784]:
+                            - emphasis [ref=e785]:
+                              - button [ref=e786]
+                          - cell [ref=e787]
+                  - cell [ref=e789]
+                  - cell [ref=e791]:
+                    - table [ref=e792] [cursor=pointer]:
+                      - rowgroup [ref=e793]:
+                        - row [ref=e794]:
+                          - cell [ref=e795]
+                          - cell [ref=e797]:
+                            - emphasis [ref=e798]:
+                              - button [ref=e799]
+                          - cell [ref=e800]
+                  - cell "20" [ref=e802]:
+                    - textbox [ref=e803]: "20"
+                  - cell "records per page." [ref=e804]
+                  - cell [ref=e805]
+                  - cell "Export To Excel" [ref=e807]:
+                    - table [ref=e808] [cursor=pointer]:
+                      - rowgroup [ref=e809]:
+                        - row "Export To Excel" [ref=e810]:
+                          - cell [ref=e811]
+                          - cell "Export To Excel" [ref=e813]:
+                            - emphasis [ref=e814]:
+                              - button "Export To Excel" [ref=e815]
+                          - cell [ref=e816]
+            - generic [ref=e818]: Displaying records 1 - 20 of 103
+      - generic [ref=e823]:
+        - link "© 2026 Testleaf." [ref=e824] [cursor=pointer]:
+          - /url: https://testleaf.com
+        - text: All rights reserved.
+  - iframe
+  - iframe
